@@ -7,4 +7,4 @@ date: 2022
 venue: 'In Extended Abstracts of the 2022 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '22)'. Association for Computing Machinery, New York, NY, USA, 246–252.
 paperurl: 'https://doi.org/10.1145/3505270.3558320'
 ---
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](files/starrescue.pdf)
