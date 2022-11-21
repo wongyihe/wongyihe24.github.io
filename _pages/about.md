@@ -8,23 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Computational Media at the University of California Santa Cruz, United States.
+I am a first-year Ph.D. student at the University of California, Santa Cruz in the [Department of Computational Media](https://engineering.ucsc.edu/departments/computational-media/).
 
-Research
+My work and research
 ======
 My research interests are in human-computer interaction with a focus on neurodiversity and digital accessibility.
 
 
-subtitle
+My background and history
 ======
-haha
-
-subsubtitle
-------
-wuwu
-
-**subsubsubtitle**
-
-I have also created [hyperlink](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator)
-
-image ![Editing a markdown file for a talk](/images/editing-talk.png)
+I received my M.S. from the [Human-Computer Interaction program](https://uclic.ucl.ac.uk/) at University College London, UK, and my B.S. from the [Department of Information Communication](http://www.infocom.yzu.edu.tw/index.php/en/information-2) at Yuan Ze University, Taiwan. Before joined UCSC as a PhD student, I worked with [Xin Tong](https://scholars.duke.edu/person/xin.tong) at Duke Kunshan University, China, as a graduate research assistant.
