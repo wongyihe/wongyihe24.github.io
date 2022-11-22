@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the University of California, Santa Cruz in the [Department of Computational Media](https://engineering.ucsc.edu/departments/computational-media/).
+I am a first-year Ph.D. student at the University of California, Santa Cruz in the [Department of Computational Media](https://engineering.ucsc.edu/departments/computational-media/). I am advised by [Kate Ringland](https://kateringland.com/) under the [Misfit Lab](https://www.misfit-lab.com/)
 
 My work and research
 ======

@@ -86,7 +86,7 @@ author:
   location         : "Santa Cruz, California"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            : "ywan1125@ucsc.edu"
   researchgate     :
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wongyihe"
+  github           : "wongyihe"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wangyihe/"
+  linkedin         : "wangyihe"
   orcid            :
   pinterest        :
   soundcloud       :

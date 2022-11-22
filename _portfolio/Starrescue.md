@@ -1,22 +1,28 @@
 ---
 title: "StarRescue"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio/starrescue/starresuce_cover.png'>"
 collection: portfolio
 ---
 
-Date: September 1, 2021
+Date: 1 Jun - 10 Sept, 2021
+
 My Role: Team Leader, Designer, Unity developer
-Responsibility: 1. Literature review and conceptualization
+
+Responsibility:
+1. Literature review and conceptualization
 2. Visual design
 3. Game development with Unity
+
 Tags: Digital Health, Game Design, Interactive Design, Interface Design, Neurodiversity
 
-![Untitled](StarRescue%20d3ef22ed818c4413a2bf6bd32b532fbb/Untitled.png)
+![teaser](/images/portfolio/starrescue/starresuce_teaser.png)
 
 > Ball movement can make children willingly wait for their turn!
 >
 
-[https://www.youtube.com/watch?v=PCWmleTNXPo](https://www.youtube.com/watch?v=PCWmleTNXPo)
+# Demo
+[![Demo Video](https://img.youtube.com/vi/PCWmleTNXPo/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCWmleTNXPo)
+
 
 # Introduction
 
@@ -32,9 +38,9 @@ Tags: Digital Health, Game Design, Interactive Design, Interface Design, Neurodi
 # Design Objectives
 
 - The development of our collaborative tablet-based game that would engage and encourage HFA children to improve their collaboration skills, especially turn-taking, was guided by three objectives:
-    1. 1) to support HFA children in learning to collaborate in a turn-taking manner
-    2. 2) to enable players to learn to interact with others while completing their own tasks
-    3. 3) to reinforce good social behaviors and encourage continued learning.
+    1. to support HFA children in learning to collaborate in a turn-taking manner
+    2. to enable players to learn to interact with others while completing their own tasks
+    3. to reinforce good social behaviors and encourage continued learning.
 
 # The Game Design of StarRescue
 
