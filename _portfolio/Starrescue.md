@@ -1,6 +1,6 @@
 ---
 title: "StarRescue"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio/starrescue/starresuce_cover.png'>"
+excerpt: "A collaborative tablet game for children with autism.<br/><img src='/images/portfolio/starrescue/starrescue_cover.jpeg'>"
 collection: portfolio
 ---
 
