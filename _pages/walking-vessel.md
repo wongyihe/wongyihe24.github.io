@@ -11,7 +11,7 @@ My name "易和" is pronounced as "Yihe", which is the same pronunciation as "�
 
 
 ##  I have a twin sister! She is an amazing ceramic artist!
-Check out her work on Instagram [@wangyizhi0924](https://www.google.com/search?q=check+out+her+work&oq=check+out+her+work&aqs=chrome..69i57j0i22i30j0i15i22i30j0i22i30l3j0i10i15i22i30j0i22i30j0i390l2.5940j0j7&sourceid=chrome&ie=UTF-8).
+Check out her work on Instagram [@wangyizhi0924](https://www.instagram.com/wangyizhi0924/).
 ![sister and I](/images/walking-vessel/Sister&I.png)
 ##  Love traveling and enjoy the diversity
 ### Taiwan (2015-2019)
