@@ -79,8 +79,8 @@ Players receive a reward when they can successfully take turns bouncing the ball
 | ![starrescue_rewardsystem1](/images/portfolio/starrescue/starrescue_rewardsystem1.png) | ![starrescue_rewardsystem2](/images/portfolio/starrescue/starrescue_rewardsystem2.png) |
 
 The reward system has a twofold benefit:
-    - Get a sense of achievement
-    - Symbolize one's membership in the group
+<br>    - Get a sense of achievement
+<br>    - Symbolize one's membership in the group
 
 # Study Method
 
