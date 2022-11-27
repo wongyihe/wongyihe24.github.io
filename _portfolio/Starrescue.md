@@ -45,7 +45,7 @@ The development of our collaborative tablet-based game that would engage and enc
 
 *ideation - group brainstroming*
 
- ![iteration1](/images/portfolio/starrescue/starrescue_iteration1.gif)  ![iteration2](/images/portfolio/starrescue/starrescue_iteration2.png)  ![iteration3](/images/portfolio/starrescue/starrescue_iteration3.png)
+| ![iteration1](/images/portfolio/starrescue/starrescue_iteration1.gif) | ![iteration2](/images/portfolio/starrescue/starrescue_iteration2.png) | ![iteration3](/images/portfolio/starrescue/starrescue_iteration3.png) |
 
 *the iteration process of StarRescue*
 
